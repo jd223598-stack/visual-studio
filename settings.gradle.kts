@@ -22,6 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "VeterinariaLemas"
+rootProject.name = "HolaMundo"
 include(":app")
- 
